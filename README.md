@@ -25,8 +25,8 @@ Siempre estoy en constante aprendizaje y buscando desafíos que me ayuden a mejo
 ---
 
 ## 💊 GitHub Stats  
-![Marlon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marlontrujillo&show_icons=true&theme=radical&cache_seconds=1)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marlontrujillo&layout=compact&theme=radical)  
+![Marlon's GitHub Stats](https://github-readme-stats-yizack.vercel.app/api?username=marlontrujillo&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats-yizack.vercel.app/api/top-langs/?username=marlontrujillo&layout=compact&theme=radical)
 
 ---
 
