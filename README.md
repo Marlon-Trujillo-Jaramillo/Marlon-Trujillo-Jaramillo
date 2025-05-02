@@ -1,6 +1,5 @@
 # 💻 Marlon Trujillo | Full Stack Developer  
 
-![Banner](https://source.unsplash.com/1600x400/?technology,coding)
 
 ## 🚀 About Me  
 👋 ¡Hola! Soy **Marlon Trujillo**, un apasionado desarrollador **Full Stack** con habilidades en:  
@@ -18,9 +17,10 @@ Siempre estoy en constante aprendizaje y buscando desafíos que me ayuden a mejo
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)  
 ![WinForms](https://img.shields.io/badge/WinForms-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
+![Blazor](https://img.shields.io/badge/Blazor-%237138C8.svg?style=for-the-badge&logo=blazor&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 
 ---
 
@@ -31,7 +31,7 @@ Siempre estoy en constante aprendizaje y buscando desafíos que me ayuden a mejo
 ---
 
 ## 🔗 Contacto  
-📧 **Email:** [tuemail@example.com](mailto:tj.marlon0605@gmail.com)  
-🌛 **LinkedIn:** [linkedin.com/in/marlontrujillo](www.linkedin.com/in/marlon-trujillo-5b661734a)  
+📧 **Email:** [tj.marlon0605@gmail.com] 
+🌛 **LinkedIn:** [www.linkedin.com/in/marlon-trujillo-5b661734a]
 
 🌟 ¡No olvides seguirme y ver mis proyectos! 🚀
