@@ -32,6 +32,6 @@ Siempre estoy en constante aprendizaje y buscando desafíos que me ayuden a mejo
 
 ## 🔗 Contacto  
 📧 **Email:** [tj.marlon0605@gmail.com] 
-🌛 **LinkedIn:** [www.linkedin.com/in/marlon-trujillo-5b661734a]
+🌛 **LinkedIn:** [www.linkedin.com/in/marlon-trujillo-jaramillo-980b55267]
 
 🌟 ¡No olvides seguirme y ver mis proyectos! 🚀
