@@ -3,8 +3,8 @@
 
 ## 🚀 About Me  
 👋 ¡Hola! Soy **Marlon Trujillo**, un apasionado desarrollador **Full Stack** con habilidades en:  
-- **Frontend:** HTML, CSS, JavaScript, windowsforms, blazor, android studio
-- **Backend:** C#, Node.js (aprendiendo)  
+- **Frontend:** Flutter, HTML, CSS, JavaScript, windowsforms, blazor, Angular
+- **Backend:** SpringBoot, C#
 - **Database:** MySQL, MongoDB  
 
 Siempre estoy en constante aprendizaje y buscando desafíos que me ayuden a mejorar mis habilidades.  
